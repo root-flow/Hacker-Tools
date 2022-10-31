@@ -10,7 +10,7 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet BHECY")
+os.system("figlet FLOW")
 
 os.system("figlet ROOTKIT TARAMA")
 
