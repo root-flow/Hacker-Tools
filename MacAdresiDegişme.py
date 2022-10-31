@@ -4,7 +4,7 @@ import os
 
 os.system("apt-get install figlet")
 os.system("clear")
-os.system("figlet BHECY")
+os.system("figlet FLOW")
 os.system("figlet MAC ID DEGISTIRME ARACI")
 
 print("""
