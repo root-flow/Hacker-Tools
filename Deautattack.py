@@ -18,7 +18,7 @@ os.system("clear")
 
 print("\033[33m")
 
-os.system("figlet By_Black_Hat EcY")
+os.system("figlet Black Hat Flow")
 
 print("\033[36m")
 
